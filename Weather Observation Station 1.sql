@@ -9,4 +9,3 @@ SELECT
     STATE
 FROM
     STATION;
-
