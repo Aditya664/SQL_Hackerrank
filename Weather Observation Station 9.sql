@@ -12,4 +12,3 @@ WHERE
         OR city LIKE 'I%'
         OR city LIKE 'O%'
         OR city LIKE 'U%');
-
