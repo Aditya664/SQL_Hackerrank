@@ -19,4 +19,3 @@ FROM
 ORDER BY
     Ln DESC,
     CITY ASC;
-
