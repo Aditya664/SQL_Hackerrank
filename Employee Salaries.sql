@@ -13,4 +13,3 @@ WHERE
     AND months < 10
 ORDER BY
     employee_id;
-
