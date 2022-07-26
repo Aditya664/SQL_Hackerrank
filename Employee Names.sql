@@ -10,4 +10,3 @@ FROM
     employee
 ORDER BY
     name;
-

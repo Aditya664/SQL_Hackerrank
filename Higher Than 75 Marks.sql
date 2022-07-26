@@ -13,4 +13,3 @@ WHERE
 ORDER BY
     SUBSTR(name, LENGTH(name) - 2, 3),
     id;
-
