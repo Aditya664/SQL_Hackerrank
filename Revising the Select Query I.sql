@@ -6,4 +6,3 @@ FROM
 WHERE
     CountryCode = 'USA'
     AND POPULATION > 100000;
-
