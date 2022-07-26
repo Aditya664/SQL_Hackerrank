@@ -1,7 +1,15 @@
 /*
 Enter your query here.
 Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
-*/
-select distinct city
-from station
-where not (city like 'A%' or city like 'E%' or city like 'I%' or city like 'O%' or city like 'U%');
+ */
+SELECT DISTINCT
+    city
+FROM
+    station
+WHERE
+    NOT (city LIKE 'A%'
+        OR city LIKE 'E%'
+        OR city LIKE 'I%'
+        OR city LIKE 'O%'
+        OR city LIKE 'U%');
+
